@@ -1,0 +1,15 @@
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/bin/Debug/net10.0/SmallestMissingPositiveInt
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/bin/Debug/net10.0/SmallestMissingPositiveInt.deps.json
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/bin/Debug/net10.0/SmallestMissingPositiveInt.runtimeconfig.json
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/bin/Debug/net10.0/SmallestMissingPositiveInt.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/bin/Debug/net10.0/SmallestMissingPositiveInt.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.AssemblyInfoInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.AssemblyInfo.cs
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.csproj.CoreCompileInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.sourcelink.json
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/refint/SmallestMissingPositiveInt.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/SmallestMissingPositiveInt.genruntimeconfig.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/Debug/net10.0/ref/SmallestMissingPositiveInt.dll

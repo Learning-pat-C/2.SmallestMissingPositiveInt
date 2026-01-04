@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmallestMissingPositiveInt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76eaf7923006700bf5dafa26ddfdfb10bff212a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmallestMissingPositiveInt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmallestMissingPositiveInt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

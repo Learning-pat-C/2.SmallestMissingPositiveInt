@@ -55,18 +55,20 @@ class Solution
 {
     public static void Main(string[] args)
     {
+        Console.WriteLine("Type the array lenght and return: ");
         int orderNumbersCount = Convert.ToInt32(Console.ReadLine().Trim());
 
         List<int> orderNumbers = new List<int>();
 
         for (int i = 0; i < orderNumbersCount; i++)
         {
+            Console.WriteLine($"Write the {i+1} number: ");
             int orderNumbersItem = Convert.ToInt32(Console.ReadLine().Trim());
             orderNumbers.Add(orderNumbersItem);
         }
 
         int result = Result.findSmallestMissingPositive(orderNumbers);
 
-        Console.WriteLine(result);
+        Console.WriteLine("Minimum missing number is: "+result);
     }
 }

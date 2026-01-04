@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/1. engineer/1. training/DotNet/SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj": {}
+    "/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/1. engineer/1. training/DotNet/SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj": {
+    "/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/1. engineer/1. training/DotNet/SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj",
+        "projectUniqueName": "/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj",
         "projectName": "SmallestMissingPositiveInt",
-        "projectPath": "/Users/user/Documents/1. engineer/1. training/DotNet/SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj",
+        "projectPath": "/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/SmallestMissingPositiveInt.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/1. engineer/1. training/DotNet/SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/",
+        "outputPath": "/Users/user/Documents/1. engineer/1. training/DotNet/2.SmallestMissingPositiveInt/SmallestMissingPositiveInt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
